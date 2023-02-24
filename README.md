@@ -1,5 +1,8 @@
 # Encryption
 
+Will need docker and devcontainer in VScode installed.
+Open with VScode.
+
 This is implementing password hashing algorithms for a website. The files you will be editting include `/Areas/Identity/{Iterative,PBDKF2,BCrypt,Argon2Id}Hasher.cs`. 
 
 ## Running
